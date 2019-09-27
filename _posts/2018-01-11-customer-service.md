@@ -2,7 +2,7 @@
 layout: post
 author: mogu
 featured: false
-hidden: false
+hidden: true
 title:  "Featured, Hidden"
 categories: [ Cat1, Cat2 ]
 tags: [red, yellow]
