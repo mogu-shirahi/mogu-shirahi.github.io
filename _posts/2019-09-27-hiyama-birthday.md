@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "コードブール"
 author: mogu
+featured: false
+hidden: false
+title:  "コードブール"
 categories: [ コードブール ]
 tags: [コードブール]
-description: "My review of Inception movie. Acting, plot and something else in this short description."
-featured: false
-hidden: true
-rating: 4.5
+description: "這是帖子的簡介。"
 comments: false
 ---
 
