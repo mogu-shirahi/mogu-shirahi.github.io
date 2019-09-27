@@ -2,8 +2,8 @@
 layout: post
 author: mogu
 featured: false
-hidden: false
-title:  "Powerful things you can do with the Markdown editor"
+hidden: true
+title:  "Powerful Markdown editor"
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
