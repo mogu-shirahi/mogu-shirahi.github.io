@@ -4,7 +4,7 @@ title: "一嘛蘑菇"
 description: "♡Code Blue♡白緋♡新垣結衣♡戸田恵梨香♡"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: https://mogu-shirahi.github.io
 google_analytics: 'dummyid'
 disqus: 'dummyid'
 include: ["_pages"]
