@@ -2,7 +2,7 @@
 layout: post
 author: mogu
 featured: false
-hidden: false
+hidden: true
 title:  "Bold words"
 categories: [ Jekyll, tutorial ]
 image: assets/images/7.jpg
