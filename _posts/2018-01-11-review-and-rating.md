@@ -3,7 +3,7 @@ layout: post
 author: mogu
 featured: false
 hidden: true
-title:  "Featured, Hidden"
+title:  "Review and rating"
 categories: [ Cat1, Cat2 ]
 tags: [red, yellow]
 image: assets/images/11.jpg
