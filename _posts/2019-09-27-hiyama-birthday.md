@@ -3,15 +3,9 @@ layout: post
 author: mogu
 featured: false
 hidden: false
-title:  "コードブール"
-categories: [ コードブール ]
-tags: [コードブール]
-description: "這是帖子的簡介。"
-comments: false
+title:  "祝美帆子生日快乐"
+categories: [ 緋山美帆子 ]
+
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
-
-#### How to use?
-
-Hello　World
+今天是緋山美帆子xx岁生日的大日子！祝美帆子生日快乐！
