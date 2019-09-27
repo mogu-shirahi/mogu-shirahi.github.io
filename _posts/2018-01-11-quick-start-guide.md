@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Not Featured, Hidden"
 author: mogu
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
