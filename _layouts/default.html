@@ -65,16 +65,16 @@ ga('send', 'pageview');
             <ul class="navbar-nav ml-auto">
 
                 {% if page.url == "/" %}
-                <!--<li class="nav-item active">-->
+                <li class="nav-item active">
                 {% else %}
-                <!--<li class="nav-item">-->
+                <li class="nav-item">
                 {% endif %}
-                <!--<a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>-->
-                <!--</li>-->
+                <a class="nav-link" href="{{ site.baseurl }}/index.html">部落格</a>
+                </li>
 
-                <!--<li class="nav-item">-->
-                <!--<a class="nav-link" href="{{ site.baseurl }}/about">About</a>-->
-                <!--</li>-->
+                <li class="nav-item">
+                <a class="nav-link" href="{{ site.forum }}">【红白の绊】論壇</a>
+                </li>
 
                 {% include search-lunr.html %}
 
