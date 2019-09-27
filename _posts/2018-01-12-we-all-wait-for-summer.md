@@ -1,7 +1,9 @@
 ---
 layout: post
+author: mogu
+featured: false
+hidden: false
 title:  "We all wait for summer"
-author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 rating: .5
