@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
+title:  "Featured, Not Hidden"
+featured: false
+hidden: true
 author: mogu
 categories: [ Jekyll ]
 image: assets/images/14.jpg
