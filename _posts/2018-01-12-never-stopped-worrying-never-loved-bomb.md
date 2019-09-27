@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Featured, Not Hidden"
-featured: false
-hidden: true
 author: mogu
+featured: false
+hidden: false
+title:  "Featured, Not Hidden"
 categories: [ Jekyll ]
 image: assets/images/14.jpg
 ---
