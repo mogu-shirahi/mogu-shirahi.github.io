@@ -1,6 +1,5 @@
 ---
 layout: post
-author: mogu
 featured: false
 hidden: false
 title:  "祝美帆子生日快乐"
