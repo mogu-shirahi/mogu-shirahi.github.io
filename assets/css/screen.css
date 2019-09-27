@@ -306,8 +306,9 @@ span.post-read-more a:hover {
 
 .mediumnavigation h1.sitetitle {
     font-family:"Hiragino Sans GB","Microsoft YaHei",\5FAE\8F6F\96C5\9ED1,tahoma,arial,simsun,\5B8B\4F53;
-    font-weight:bold;
-    font-size:50%;
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 1.25;
 }
 
 .mainheading h1.sitetitle {
