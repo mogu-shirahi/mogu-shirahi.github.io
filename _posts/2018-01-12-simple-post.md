@@ -3,7 +3,7 @@ layout: post
 author: mogu
 featured: false
 hidden: true
-title:  "We all wait for summer"
+title:  "Simple post"
 categories: [ Jekyll, tutorial ]
 image: assets/images/5.jpg
 rating: .5
