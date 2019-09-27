@@ -5,6 +5,7 @@ description: "♡Code Blue♡白緋♡新垣結衣♡戸田恵梨香♡"
 logo: 'assets/images/heli-96.jpg'
 favicon: 'assets/images/heli-16.jpg'
 baseurl: https://mogu-shirahi.github.io
+forum: https://www.shirahi.com
 google_analytics: 'dummyid'
 disqus: 'dummyid'
 include: ["_pages"]
