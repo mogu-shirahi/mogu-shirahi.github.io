@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Featured, Hidden"
 author: mogu
 categories: [ Cat1, Cat2 ]
 tags: [red, yellow]
