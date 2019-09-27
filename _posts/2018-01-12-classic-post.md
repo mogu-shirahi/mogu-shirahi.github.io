@@ -2,8 +2,8 @@
 layout: post
 author: mogu
 featured: false
-hidden: false
-title:  "Tree of Codes"
+hidden: true
+title:  "Classic post"
 categories: [ Jekyll, tutorial ]
 image: assets/images/9.jpg
 ---
