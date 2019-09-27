@@ -4,7 +4,6 @@ author: mogu
 featured: false
 hidden: true
 title:  "Options for creating a new site with Jekyll"
-categories: [ Jekyll, tutorial ]
 image: assets/images/13.jpg
 ---
 
